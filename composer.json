@@ -1,0 +1,24 @@
+{
+    "name": "dominikveils/bitly",
+    "description": "bit.ly URL shortener API",
+    "type": "library",
+    "keywords": [
+        "bit.ly",
+        "URL shortener",
+        "short url",
+        "bit"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Veils",
+            "email": "dominikveils@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DominikVeils\\Bitly\\": "src/"
+        }
+    }
+}
